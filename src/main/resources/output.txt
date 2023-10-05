@@ -1,0 +1,13 @@
+Employee who has worked for seven consecutive days:
+Position Id: WFS000054, Employee Name: SiWgh, PraGhjEM
+Position Id: WFS000424, Employee Name: SiWgh, JaspreeM
+
+Employee who have less than 10 hours of time between shifts but greater than 1 hour:
+Position Id: WFS000456, Employee Name: CEreira Jr, JEse
+Position Id: WFS000523, Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+Position Id: WFS000538, Employee Name:  HAWMer, ViWceWM De PaAX
+Position Id: WFS000318, Employee Name: De Xa Cerda, IgWaciE
+Position Id: WFS000200, Employee Name: Xee, XaCar
+
+Employee who has worked for more than 14 hours in a single shift:
+Position Id: WFS000523, Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
